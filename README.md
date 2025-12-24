@@ -9,3 +9,6 @@ Given a textual post x, develop a predictive function f(x)→{0,1} that classifi
 * Provide early warnings for mental health monitoring systems
 * Support chatbots and digital therapeutics platforms
 * Enable large-scale mental health surveillance in educational and workplace settings.
+
+# IMAGES FOR WORKING
+<img width="519" height="613" alt="image" src="https://github.com/user-attachments/assets/6af46576-c725-4a40-a46a-058f990332ae" />
