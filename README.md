@@ -5,10 +5,7 @@
 
 # Problem Statement
 Given a textual post x, develop a predictive function f(x)→{0,1} that classifies whether the author is experiencing psychological stress (label 1) or not (label 0), based solely on the words and phrases used in the text also to create an automated screening tool that can:
-* Identify potentially stressed individuals in online communities
-* Provide early warnings for mental health monitoring systems
-* Support chatbots and digital therapeutics platforms
-* Enable large-scale mental health surveillance in educational and workplace settings.
+
 
 # IMAGE FOR WORKING (STRESSED)
   <img width="519" height="613" alt="image" src="https://github.com/user-attachments/assets/6af46576-c725-4a40-a46a-058f990332ae" />
