@@ -22,6 +22,7 @@ Given a textual post x, develop a predictive function f(x)→{0,1} that classifi
 
 # QUANTITATIVE FEATURE ANALYSIS
 Top Discriminative Words for Stress
+<img width="847" height="438" alt="image" src="https://github.com/user-attachments/assets/6f05d20e-4616-4ebc-976c-ae159a5a00cf" />
 
 
 
