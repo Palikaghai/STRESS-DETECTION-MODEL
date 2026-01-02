@@ -3,7 +3,6 @@
 * According to the American Psychological Association, chronic stress contributes to depression, anxiety disorders, cardiovascular disease, and weakened immune function. With the exponential growth of social media platforms and online support communities, individuals increasingly express their emotions, struggles, and personal experiences through written text. 
 * This shift presents a unique opportunity to leverage machine learning and natural language processing techniques to automatically detect stress signals from the language people use online.
 
-________________________________________________________________________________________________________________________________________________________________________________________________
 # PROBLEM STATEMENT
 Given a textual post x, develop a predictive function f(x)→{0,1} that classifies whether the author is experiencing psychological stress (label 1) or not (label 0), based solely on the words and phrases used in the text also to create an automated screening tool that can:
 * Identify potentially stressed individuals in online communities
