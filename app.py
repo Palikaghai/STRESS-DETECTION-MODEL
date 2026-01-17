@@ -5,7 +5,6 @@ import numpy as np
 import pandas as pd
 from collections import Counter
 
-# ---------------- LOAD MODEL & VECTORIZER ----------------
 @st.cache_resource
 def load_model_and_vectorizer():
     model = joblib.load("stress_model.pkl")
@@ -124,3 +123,4 @@ if st.button("Analyze"):
             st.table(top_words_df)
         else:
             st.info("No valid words found after cleaning the text.")
+
